@@ -6,3 +6,7 @@
   </Query>
 </QueryList>
 ```
+# Windows Event ID Notes
+```
+https://academy.hackthebox.com/module/216/section/2300
+```
